@@ -1,7 +1,7 @@
 # Mandatory settings
 
 blog_theme: light # Or use dark
-name: Ishan's Blog | Zero or One
+name: Zero or One
 paginate: 25
 url: https://proishan11.github.io
 
