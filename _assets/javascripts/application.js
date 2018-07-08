@@ -1,4 +1,6 @@
 //= require_self
+//= require jquery
+
 
 $(document).ready(function() {
   // ScrollAppear
